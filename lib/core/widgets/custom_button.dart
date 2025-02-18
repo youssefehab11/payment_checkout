@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:payment_checkout/core/utils/styles.dart';
 
 class CustomButton extends StatelessWidget {
